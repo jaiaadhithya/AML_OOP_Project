@@ -61,10 +61,5 @@ resources/
 - Build: `mvn -q -DskipTests package`
 - Run: `java -cp target/classes com.oops.aml.ui.App`
 
-## Roadmap
-- [ ] Optional: add more detectors (cycles, layering).
-- [ ] Optional: CSV player for datasets.
-- [ ] Optional: thresholds configured via UI.
-
 ## Disclaimer
 This project is for educational and research exploration of real-time graph analytics patterns in AML. It is not a production AML system and should not be used for compliance decisions.
